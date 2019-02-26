@@ -64,7 +64,7 @@
       "settings": {
         "meta_descr": "",
         "title": "About",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -585,7 +585,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Art",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1541,7 +1541,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Photography",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2616,7 +2616,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Video",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -3144,7 +3144,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Contact",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -3638,7 +3638,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Scenic Art",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4851,7 +4851,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Martell x Quavo Ad<br>",
+                "caption": "<a href=\"https://youtu.be/HeOaSBq4Ln0\" target=\"_blank\" class=\"text-white\">Martell x Quavo Ad</a><br>",
                 "active": false
               },
               {
